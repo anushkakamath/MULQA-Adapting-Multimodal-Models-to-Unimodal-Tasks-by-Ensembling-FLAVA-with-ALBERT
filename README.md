@@ -1,5 +1,6 @@
 # MULQA: Adapting Multimodal Models to Unimodal Tasks by Ensembling FLAVA with ALBERT
-# CSCI 566 Project: Deep Learning and its Applications
+
+## CSCI 566 Project: Deep Learning and its Applications
 
 ## Team members: 
 1.Akash Gujju
